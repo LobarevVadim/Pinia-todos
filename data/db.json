@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "English",
+      "isFav": false
+    },
+    {
+      "id": 2,
+      "title": "Gym",
+      "isFav": false
+    },
+    {
+      "id": 3,
+      "title": "Eat some pineapples",
+      "isFav": true
+    },
+    {
+      "id": 4,
+      "title": "Programming",
+      "isFav": true
+    }
+  ]
+}
